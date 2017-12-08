@@ -1,0 +1,160 @@
+20:24:36: Starting:
+World of Warcraft Model Viewer v0.7.0.1 r252 Windows 32-bit
+
+
+20:24:36: Searching for MPQ archive patch-9.mpq...
+20:24:36: Searching for MPQ archive patch-8.mpq...
+20:24:36: Searching for MPQ archive patch-7.mpq...
+20:24:36: - Found MPQ archive: C:\Hw2_Hybrid\modules\GIOCHI\wow\Data\patch-7.mpq
+20:24:36: Searching for MPQ archive patch-6.mpq...
+20:24:36: Searching for MPQ archive patch-5.mpq...
+20:24:36: Searching for MPQ archive patch-4.mpq...
+20:24:36: Searching for MPQ archive patch-3.mpq...
+20:24:36: - Found MPQ archive: C:\Hw2_Hybrid\modules\GIOCHI\wow\Data\patch-3.MPQ
+20:24:36: Searching for MPQ archive patch-2.mpq...
+20:24:36: - Found MPQ archive: C:\Hw2_Hybrid\modules\GIOCHI\wow\Data\patch-2.MPQ
+20:24:36: Searching for MPQ archive patch.mpq...
+20:24:36: - Found MPQ archive: C:\Hw2_Hybrid\modules\GIOCHI\wow\Data\patch.MPQ
+20:24:36: Searching for MPQ archive expansion3.mpq...
+20:24:36: Searching for MPQ archive expansion2.mpq...
+20:24:36: Searching for MPQ archive lichking.mpq...
+20:24:36: - Found MPQ archive: C:\Hw2_Hybrid\modules\GIOCHI\wow\Data\lichking.MPQ
+20:24:36: Searching for MPQ archive expansion.mpq...
+20:24:36: - Found MPQ archive: C:\Hw2_Hybrid\modules\GIOCHI\wow\Data\expansion.MPQ
+20:24:36: Searching for MPQ archive common-3.mpq...
+20:24:36: Searching for MPQ archive common-2.mpq...
+20:24:36: - Found MPQ archive: C:\Hw2_Hybrid\modules\GIOCHI\wow\Data\common-2.MPQ
+20:24:36: Searching for MPQ archive common.mpq...
+20:24:36: - Found MPQ archive: C:\Hw2_Hybrid\modules\GIOCHI\wow\Data\common.MPQ
+20:24:36: Initiating Objects...
+20:24:37: Creating Anim Control...
+20:24:37: Creating Char Control...
+20:24:37: Creating Light Control...
+20:24:37: Creating Model Control...
+20:24:37: Creating Settings Control...
+20:24:37: Creating Model Bank Control...
+20:24:37: Creating Model Opened...
+20:24:37: Creating Model Export Options Control...
+20:24:37: Creating OpenGL Canvas...
+20:24:37: Initiating OpenGL...
+20:24:39: Info: GLEW successfully initiated.
+
+20:24:39: Video Renderer: GeForce GTX 1050 Ti/PCIe/SSE2
+20:24:39: Video Vendor: NVIDIA Corporation
+20:24:39: Driver Version: 4.6.0 NVIDIA 388.31
+20:24:39: Support wglPixelFormat: true
+20:24:39: Support Texture Compression: true
+20:24:39: Support Multi-Textures: true
+20:24:39: Support Draw Range Elements: true
+20:24:39: Support Vertex Buffer Objects: true
+20:24:39: Support Point Sprites: true
+20:24:39: Support Pixel Shaders: true
+20:24:39: Support Vertex Shaders: true
+20:24:39: Support GLSL: true
+20:24:39: Support Anti-Aliasing: true
+20:24:39: Support Pixel Buffer Objects: true
+20:24:39: Support Frame Buffer Objects: true
+20:24:39: Support Non-Power-of-Two: true
+20:24:39: Support Rectangle Textures: true
+20:24:39: Support OpenGL 2.0: true
+20:24:39: Max Rectangle Texture Size Supported: 32768
+20:24:39: Max Texture Size Supported: 32768
+
+20:24:40: Creating OpenGL Canvas...
+20:24:40: Initiating OpenGL...
+20:24:41: Loading Session settings from: C:\Hw2_Hybrid\modules\WMV_Binary_v0701_r252_Win32_DevWork\userSettings\Config.ini
+
+20:24:41: Initiating File Menu..
+20:24:41: Initiating GUI Docking.
+20:24:42: Max Lights used: 4
+20:24:43: Setting OpenGL render state...
+20:24:43: Initiating Archives...
+
+20:24:43: Game Data Path: C:\Hw2_Hybrid\modules\GIOCHI\wow\Data\
+20:24:43: Use Local Files: false
+
+20:24:43: Opening C:\Hw2_Hybrid\modules\GIOCHI\wow\Data\patch-7.mpq
+20:24:43: Opening C:\Hw2_Hybrid\modules\GIOCHI\wow\Data\patch-3.MPQ
+20:24:43: Opening C:\Hw2_Hybrid\modules\GIOCHI\wow\Data\patch-2.MPQ
+20:24:44: Opening C:\Hw2_Hybrid\modules\GIOCHI\wow\Data\patch.MPQ
+20:24:45: Opening C:\Hw2_Hybrid\modules\GIOCHI\wow\Data\lichking.MPQ
+20:24:45: Opening C:\Hw2_Hybrid\modules\GIOCHI\wow\Data\expansion.MPQ
+20:24:46: Opening C:\Hw2_Hybrid\modules\GIOCHI\wow\Data\common-2.MPQ
+20:24:49: Opening C:\Hw2_Hybrid\modules\GIOCHI\wow\Data\common.MPQ
+20:24:49: Opening C:\Hw2_Hybrid\modules\GIOCHI\wow\Data\enUS\patch-enUS-3.MPQ
+20:24:49: Opening C:\Hw2_Hybrid\modules\GIOCHI\wow\Data\enUS\patch-enUS-2.MPQ
+20:24:49: Opening C:\Hw2_Hybrid\modules\GIOCHI\wow\Data\enUS\patch-enUS.MPQ
+20:24:49: Opening C:\Hw2_Hybrid\modules\GIOCHI\wow\Data\enUS\lichking-locale-enUS.MPQ
+20:24:49: Opening C:\Hw2_Hybrid\modules\GIOCHI\wow\Data\enUS\expansion-locale-enUS.MPQ
+20:24:50: Opening C:\Hw2_Hybrid\modules\GIOCHI\wow\Data\enUS\locale-enUS.MPQ
+20:24:50: Opening C:\Hw2_Hybrid\modules\GIOCHI\wow\Data\enUS\base-enUS.MPQ
+20:24:50: Loaded Content TOC: v3.03.00
+20:24:50: Loaded Content Version: 12340
+20:24:50: InitMPQArchives result: true
+20:24:54: Initiating Databases...
+20:24:54: Finished initiating database files.
+20:24:54: Info: GUI Layout loaded from previous session.
+20:24:54: WoW Model Viewer successfully loaded!
+----
+
+20:26:07: Loading model: Creature\Humanfemaleblacksmith\humanfemaleblacksmith.m2, size: 115248
+
+20:26:07: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+20:26:10: Loading texture: Creature\Humanfemaleblacksmith\HumanFemaleMerchant01_NoApron.blp
+20:26:39: Loading model: Creature\Humanmalewizard\humanmalewizard.m2, size: 118720
+
+20:26:39: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+20:26:42: Loading texture: Creature\Humanmalewizard\HumanMaleMerchant02Skin.blp
+20:34:21: Loading model: Creature\Highelf\highelffemale_mage.m2, size: 680160
+
+20:34:21: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+20:34:21: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+20:34:23: Loading texture: Creature\Highelf\BloodElfFemaleMage.blp
+20:34:23: Loading texture: Creature\Highelf\BloodElfFemaleHairSkin.blp
+20:34:24: Loading model: Creature\Magehunter\magehunter.m2, size: 154416
+
+20:34:24: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+20:34:24: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+20:34:24: Loading texture: WORLD\EXPANSION01\DOODADS\HELLFIREPENINSULA\DARKPORTAL\SMOKEPUFF.BLP
+20:34:24: Info: Added WORLD\EXPANSION01\DOODADS\HELLFIREPENINSULA\DARKPORTAL\SMOKEPUFF.BLP to the TextureList.
+20:34:26: Loading texture: Creature\Magehunter\magehunteglowred.blp
+20:34:29: Loading model: Creature\Highelf\highelffemale_mage.m2, size: 680160
+
+20:34:29: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+20:34:29: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+20:34:30: Loading texture: Creature\Highelf\bloodelfmalehair.blp
+20:34:36: Loading model: Creature\Highelf\highelfmale_mage.m2, size: 625840
+
+20:34:36: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+20:34:36: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+20:34:39: Loading texture: Creature\Highelf\highelffemalehairskin.blp
+20:34:41: Loading model: Creature\Highelf\highelffemale_mage.m2, size: 680160
+
+20:34:41: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+20:34:41: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+20:34:42: Loading texture: Creature\Highelf\bloodelffemalemage.blp
+20:35:16: Loading model: Creature\Highelf\highelfmale_mage.m2, size: 625840
+
+20:35:16: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+20:35:16: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+20:35:18: Loading texture: Creature\Highelf\bloodelffemalehairskin.blp
+20:35:20: Loading model: Creature\Magehunter\magehunter.m2, size: 154416
+
+20:35:20: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+20:35:20: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+20:35:20: Loading texture: WORLD\EXPANSION01\DOODADS\HELLFIREPENINSULA\DARKPORTAL\SMOKEPUFF.BLP
+20:35:20: Info: Added WORLD\EXPANSION01\DOODADS\HELLFIREPENINSULA\DARKPORTAL\SMOKEPUFF.BLP to the TextureList.
+20:35:22: Loading texture: Creature\Magehunter\MagehunterRed.blp
+20:35:22: Loading texture: Creature\Magehunter\MagehunteGlowRed.blp
+20:35:23: Loading model: Creature\Highelf\highelfmale_mage.m2, size: 625840
+
+20:35:23: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+20:35:23: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+20:35:24: Loading texture: Creature\Highelf\highelfcultistfemalemage.blp
+20:36:46: Loading model: Creature\Magehunter\magehunter.m2, size: 154416
+
+20:36:46: Info: Added ChangableTexture1.blp to the TextureList via specialTextures.
+20:36:46: Info: Added ChangableTexture2.blp to the TextureList via specialTextures.
+20:36:46: Loading texture: WORLD\EXPANSION01\DOODADS\HELLFIREPENINSULA\DARKPORTAL\SMOKEPUFF.BLP
+20:36:46: Info: Added WORLD\EXPANSION01\DOODADS\HELLFIREPENINSULA\DARKPORTAL\SMOKEPUFF.BLP to the TextureList.
+20:36:48: Loading texture: Creature\Magehunter\magehunterglowblue.blp

@@ -1,0 +1,96 @@
+World of Warcraft Model Viewer v0.7.0.1
+
+r206
+ - You can now Save Files listed in WMV to your Hard-drive. Use File->Save File... or Right-Click the file in the File List!
+ - You can now browser Sounds, Images and ADTs in the file List.
+ - Browsing Images will display them in the WMV background. (Does not work if a WMO was last selected.)
+ - Enhanced the File List filter.
+ - WMV will now produce an error message if it can't find the World of Warcraft directory.
+ - WMV now wants you to specify the WoW directory, not the WoW/Data directory.
+ - In Windows, WMV will now prompt for the user to select their WoW directory if it can't find the registry info.
+ - File List Color Fix.
+ - Import Armory Fixed.
+ - (Dev Work) Increased Linux Compatiblility.
+ - (Dev Work) Updated some StormLib files and the .libs.
+ - (Dev Work) Fix some SLASH problems.
+ - (Dev Work) Cleaned up OS/Platform definitions.
+ - (Dev Work) Added OS/Platform redundancies. 32-bit Linux builds now need a _LINUX32 defined.
+ - (Dev Work) Removed some compiler warnings in the LWO exporter.
+ - (Dev Work) BLP type 0 supported.
+ - (Dev Work) Fixed Null issue in LW Bone Export function.
+
+r142
+ - Expanded Cataclysm support.
+ - Attempt to fix Win 7/Vista file creation issues.
+ - Replaced msvcp80.dll & msvcr80.dll with msvcp90.dll & msvcr90.dll.
+ - (Dev Work) Linux/Ubuntu patch intergrated. (Thanks Joel!)
+ - (Dev Work) Switched from LibMPQ to StormLib.
+ - (Dev Work) Removed Zlib & Bzip2 support libraries. (No longer needed.)
+
+r141
+ - Preliminary Cataclysm Support.
+ - esMX locale supported.
+
+r133
+ - Fixed the bug that wouldn't let the OBJ & Milkshape Exporters do their jobs.
+ - Files from Patch-3.MPQ are now colored Green. If you don't see any green files, clear your MPQ list & reload WMV, or manually add Patch-3.MPQ & (locale)\Patch-(locale)-3.MPQ.
+ - Added an Export option to use the position & rotation from WMV.
+ - Camera M2 files are available again, so they can be exported!
+ - GIF Exporter Updates:
+   - Renamed "GIF/Sequence Export".
+   - Now Exports PNG Sequences.
+   - When PNG is used, Transparency checkbox is actually used to convert the alpha channel to 1-bit from 8-bit. This will fix most alpha channel errors.
+ - Lightwave Exporter Updates:
+   - M2 files will now export a scene file if they have any data to export!
+   - M2 models with Camera data will now export that data!
+   - Camera Animation Data will now export!
+   - M2 Exports can now (optionally) place models in the scene file, based on their position and rotation in WoW Model Viewer!
+ - OBJ Exporter Updates:
+   - M2 models now export images using their actual texture names, or modelname_body.tga style names.
+ - Milkshape Exporter Updates:
+   - Same Texture Name update as OBJ.
+ - 3DS Exporter Updates:
+   - Same Texture Name update as OBJ & Milkshape.
+ - (Dev Work) Added a function to determine M2 Texture names.
+ - (Dev Work) Logs from Model Exports will now be more helpful.
+ - (Dev Work) Fixed some wide-char issues.
+ - (Dev Work) Added new icon to CMake file.
+ - (Dev Work) Added Intel Definitions for OSX to CMake file.
+
+
+r128
+ - Changed Revision Numbers to match GoogleCode Revision Number. To avoid confusion, the version number has increased to v0.7.0.1!
+ - Added an Error message if you don't have a supported version of World of Warcraft. No more DBC assertion errors!
+ - Moved some Menu Items around for better catagorization and flow.
+ - Fixed update function.
+ - Lightwave Exporter Updates:
+   - Fixed a bug for WMOs that would clear some textures after exporting doodads.
+   - M2 Character Model Exports now have much better Surface names.
+   - M2 Character Exports will now save Body and Hair images as ModelName_Body.tga and ModelName_Hair.tga, respectively.
+   - Fixed a M2 bug that would inproperly name the character's cape image file.
+   - Fixed a M2 bug where attached items (Helmets, Weapons, etc.) wouldn't have their textures properly applied.
+   - Fixed a bug for M2 files where attached items couldn't have multiple surfaces.
+   - Known Bug: After export, Character textures look wrong. This is a display problem, and does not affect exporting in any way.
+ - Updated "How To Build" Wiki on GoogleCode.
+ - Added "Model Exporting" Wiki on GoogleCode.
+ - Moved Pre-0.7.0.0 ChangeLog information to Doc/ChangeLog_History.txt.
+ - (Dev Work) The Update function's target file ("latest.txt") is now in the trunk folder. Please update with each release.
+ - (Dev Work) Removed unused Icon sizes from wmv.ico. Resulting EXE files will now be much smaller.
+ - (Dev Work) Reworked Icon loading. Much more Dev-Friendly now. (Includes a popup telling you if loading the icon failed.)
+ - (Dev Work) Increased cross-platform compatibility, specifically with the LWO Exporters.
+ - (Dev Work) Renamed all the Model Export Files.
+ - (Dev Work) Moved all exporting functions into files specific for that export type.
+ - (Dev Work) WMO Vertex Colors are now listed in an array. (Old Vertex Color system is still in place.)
+ - (Dev Work) Added IndiceToVerts conversion array for WMO Groups.
+ - (Dev Work) Both Lightwave Exporters now share Point and Surface Data writing functions. Reduces code overall.
+
+
+v0.7.0.0 r685 (Last of the old Revision Numbers)
+ - Officially updated version to 0.7.0.0!
+ - Created New Icons files.
+ - (Dev Work) Moved ChangeLog.txt to Doc folder.
+ - (Dev Work) Moved Icons to bin_support/Icons folder.
+ - (Dev Work) Updated Docs/BuildNotes.txt
+ - (Dev Work) Made a minor update to Makefile for our Linux/Unix friends.
+ - (Dev Work) Removed Unneeded GLEW files.
+ - (Dev Work) Reverted CxImage changes to allow for cross-platform compatibility.
